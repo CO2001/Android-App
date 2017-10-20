@@ -1,0 +1,4 @@
+﻿Christian Ortiz
+
+
+The App that my partner and I created is called Guess the Color. In this game we will give you a riddle and some colors, you have to figure out the riddle and guess the color correctly. The app has 3 settings for the colors, 3 colors, 5 colors, and 7 colors. The riddles get harder with each level. If you get the answer correct, the correct screen should be shown but with a glitch that we can’t seem to figure out, it crashes the game. But if you get the answer wrong the incorrect screen will show.
